@@ -1,0 +1,5 @@
+diff b/w snapshot and ami
+nacl and security groups
+commonly used ports
+secure application in aws
+mahesh@430

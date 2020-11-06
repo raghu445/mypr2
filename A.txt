@@ -1,0 +1,1 @@
+fatal: [172.31.6.69]: FAILED! => {"changed": false, "dest": "/home/uday", "elapsed": 0, "gid": 1582, "group": "uday", "mode": "0755", "msg": "Request failed", "owner": "uday", "response": "HTTP Error 404: Not Found", "size": 4096, "state": "directory", "status_code": 404, "uid": 1582, "url": "http://mirrors.jenkins.io/war/-stable/latest/jenkins.war"}
